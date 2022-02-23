@@ -15,3 +15,4 @@
 
 # Add a feed source
 echo 'src-git helloworld https://github.com/jgsports/helloworld' >>feeds.conf.default
+echo 'src-git NueXini https://github.com/NueXini/NueXini_Packages' feeds.conf.default
