@@ -15,4 +15,4 @@
 
 # Add a feed source
 echo 'src-git helloworld https://github.com/jgsports/helloworld' >>feeds.conf.default
-
+echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
